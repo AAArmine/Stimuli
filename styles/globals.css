@@ -34,7 +34,7 @@
 
 .main:after {
   content: "";
-  background-image: url("/assets/images/grid.svg");
+  /* background-image: url("/assets/images/grid.svg"); */
   z-index: 1;
   position: absolute;
   width: 100%;
@@ -90,7 +90,7 @@
 }
 
 .head_text {
-  @apply mt-5 text-5xl font-extrabold leading-[1.15] text-black sm:text-6xl;
+  @apply mt-5 text-3xl font-extrabold leading-[1.15] text-black sm:text-5xl;
 }
 
 .orange_gradient {
@@ -141,7 +141,7 @@
 
 /* Nav Component */
 .logo_text {
-  @apply max-sm:hidden font-satoshi font-semibold text-lg text-black tracking-wide;
+  @apply max-sm:hidden font-satoshi font-semibold text-lg tracking-wide;
 }
 
 .dropdown {

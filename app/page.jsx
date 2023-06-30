@@ -7,7 +7,7 @@ const Home = () => {
       <h1 className="head_text">
         Discover & Share
         <br className="max-md:hidden" />
-        <span className="orange_gradient">AI-powered Prompts</span>
+        <span className="orange_gradient"> AI-powered Prompts</span>
         <p className="desc">
           Stimuli is an open-source AI prompting tool to discover, create and
           share creative prompts
